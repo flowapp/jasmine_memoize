@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-memoize",
+  "version": "0.1.0",
+  "description": "Adds support for `set` to jasmine",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flowapp/jasmine_memoize.git"
+  },
+  "author": "Flow",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.1.0"
+  }
+}
